@@ -1,4 +1,4 @@
-(defproject com.taoensso.forks/lein-codox "0.10.11"
+(defproject com.taoensso.forks/lein-codox "0.10.12-SNAPSHOT"
   :description "Codox Leiningen plugin"
   :url "https://github.com/weavejester/codox"
   :scm {:dir ".."}
